@@ -4,7 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 const Navbar = () => {
   return (
-    <div className="max-w-7xl mx-auto mt-6 flex justify-between">
+      <div className="w-11/12 xl:w-10/12 mx-auto flex justify-between pt-12">
       <div className="flex items-center">
         <div className="flex items-center gap-2">
           <img className="size-6 " src={logo} alt="" />
@@ -26,7 +26,8 @@ const Navbar = () => {
           Get a Quote <FaArrowRight />
         </button>
       </div>
-    </div>
+  
+</div>
   );
 };
 

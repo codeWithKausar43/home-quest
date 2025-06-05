@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "price": "$320,000",
+    "title": "Modern Family Home",
+    "address": "123 Maple Street, New York, NY",
+    "sqft": 1800,
+    "bed": 3,
+    "bath": 2,
+    "image": "../src/assets/imge2.png"
+  },
+  {
+    "id": 2,
+    "price": "$450,000",
+    "title": "Luxury Condo with City View",
+    "address": "789 Broadway Ave, Los Angeles, CA",
+    "sqft": 1500,
+    "bed": 2,
+    "bath": 2,
+    "image": "../src/assets/imge2.png"
+  },
+  {
+    "id": 3,
+    "price": "$275,000",
+    "title": "Cozy Bungalow",
+    "address": "456 Oak Lane, Austin, TX",
+    "sqft": 1200,
+    "bed": 2,
+    "bath": 1,
+    "image": "../src/assets/imge2.png"
+  },
+  {
+    "id": 4,
+    "price": "$600,000",
+    "title": "Spacious Country House",
+    "address": "101 Hilltop Road, Denver, CO",
+    "sqft": 2500,
+    "bed": 4,
+    "bath": 3,
+    "image": "../src/assets/imge2.png"
+  },
+  {
+    "id": 5,
+    "price": "$390,000",
+    "title": "Stylish Townhouse",
+    "address": "202 Pine Street, Seattle, WA",
+    "sqft": 1600,
+    "bed": 3,
+    "bath": 2,
+    "image": "../src/assets/imge2.png"
+  },
+  {
+    "id": 6,
+    "price": "$510,000",
+    "title": "Contemporary Villa",
+    "address": "888 Palm Drive, Miami, FL",
+    "sqft": 2000,
+    "bed": 3,
+    "bath": 2,
+    "image": "../src/assets/imge2.png"
+  }
+]

@@ -1,5 +1,7 @@
 import "./App.css";
 import banner from "./assets/banner1.png";
+import Exclusive from "./components/Exclusive";
+import Massage from "./components/Massage";
 import Navbar from "./components/Navbar";
 import Trusted from "./components/Trusted";
 
@@ -13,7 +15,7 @@ function App() {
           backgroundSize: "cover",
           backgroundRepeat: "no-repeat",
           backgroundPosition: "center",
-          width: "100vw",
+          width: "100%",
           height: "auto",
         }}
       >
@@ -38,6 +40,9 @@ function App() {
         </div>
       </header>
       <Trusted></Trusted>
+      <Exclusive></Exclusive>
+      <Massage></Massage>
+       
     </div>
   );
 }
